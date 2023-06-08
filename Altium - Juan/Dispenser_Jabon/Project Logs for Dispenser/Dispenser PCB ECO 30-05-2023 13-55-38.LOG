@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=BUZZER Pin=U1-D0
+Added Pin To Net: NetName=BUZZER Pin=U1-SD0
+Added Room: Name=Dispenser

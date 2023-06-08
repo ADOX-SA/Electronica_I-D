@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=D6 Pin=U1-D6
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Added Component: Designator=LS1(BUZZER)
+Added Component: Designator=P2(HDR1X4)
+Added Component: Designator=P3(CON1X2)
+Added Component: Designator=Q(SOT95P280X125-3N)
+Added Component: Designator=R1(RESC2012N)
+Added Component: Designator=R2(RESC2012N)
+Added Component: Designator=R3(RESC2012N)
+Added Component: Designator=S1(SW_TL3301FF160QG)
+Added Component: Designator=S2(SW_TL3301FF160QG)
+Added Component: Designator=S3(SW_TL3301FF160QG)
+Added Component: Designator=S4(SW_MINI-SPDT-SW)
+Added Component: Designator=W4(RESC1608N)
+Added Pin To Net: NetName=+5V Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=SDA Pin=P2-1
+Added Pin To Net: NetName=SCL Pin=P2-2
+Added Pin To Net: NetName=3V3 Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=+5V Pin=P3-1
+Added Pin To Net: NetName=GND Pin=Q-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S2-3
+Added Pin To Net: NetName=GND Pin=S3-3
+Added Pin To Net: NetName=+5V Pin=S4-3
+Added Pin To Net: NetName=+5V Pin=U1-VIN
+Added Pin To Net: NetName=D6 Pin=W4-1
+Added Pin To Net: NetName=NetR2_1 Pin=W4-2
+Added Pin To Net: NetName=BTN_+L Pin=S2-1
+Added Pin To Net: NetName=BTN_+L Pin=U1-D5
+Added Net: Name=BTN_+L
+Added Pin To Net: NetName=BTN_-L Pin=S3-1
+Added Pin To Net: NetName=BTN_-L Pin=U1-D6
+Added Net: Name=BTN_-L
+Added Pin To Net: NetName=BTN_MOT Pin=S1-1
+Added Pin To Net: NetName=BTN_MOT Pin=U1-D7
+Added Net: Name=BTN_MOT
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=S4-2
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=Q-3
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetQ_1 Pin=Q-1
+Added Pin To Net: NetName=NetQ_1 Pin=R1-2
+Added Pin To Net: NetName=NetQ_1 Pin=R3-2
+Added Net: Name=NetQ_1
+Added Pin To Net: NetName=SET_MOT Pin=R1-1
+Added Pin To Net: NetName=SET_MOT Pin=U1-D8
+Added Net: Name=SET_MOT
+Added Member To Class: ClassName=Dispenser Member=Component LS1 Buzzer 3V
+Added Member To Class: ClassName=Dispenser Member=Component P2 Oled
+Added Member To Class: ClassName=Dispenser Member=Component P3 MOTOR
+Added Member To Class: ClassName=Dispenser Member=Component Q AO3402
+Added Member To Class: ClassName=Dispenser Member=Component R1 1k
+Added Member To Class: ClassName=Dispenser Member=Component R2 1k
+Added Member To Class: ClassName=Dispenser Member=Component R3 10k
+Added Member To Class: ClassName=Dispenser Member=Component S1 MARCHA
+Added Member To Class: ClassName=Dispenser Member=Component S2 SUMAR_LITROS
+Added Member To Class: ClassName=Dispenser Member=Component S3 RESTAR_LITROS
+Added Member To Class: ClassName=Dispenser Member=Component S4 POWER
+Added Member To Class: ClassName=Dispenser Member=Component W4 Jumper
+Added Room: Name=Dispenser
