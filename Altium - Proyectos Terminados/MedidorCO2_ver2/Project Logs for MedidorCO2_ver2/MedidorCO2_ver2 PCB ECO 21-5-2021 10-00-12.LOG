@@ -1,0 +1,17 @@
+Added Component: Designator=U1(NodeMCU V1.0 ESP-12E)
+Added Pin To Net: NetName=3V3 Pin=U1-3V3
+Added Pin To Net: NetName=3V3 Pin=U1-3V3
+Added Pin To Net: NetName=3V3 Pin=U1-3V3
+Added Pin To Net: NetName=SCL Pin=U1-D1
+Added Pin To Net: NetName=SDA Pin=U1-D2
+Added Pin To Net: NetName=D3 Pin=U1-D3
+Added Pin To Net: NetName=D4 Pin=U1-D4
+Added Pin To Net: NetName=D5 Pin=U1-D5
+Added Pin To Net: NetName=BUZZER Pin=U1-D6
+Added Pin To Net: NetName=NetU1_D7 Pin=U1-D7
+Added Pin To Net: NetName=NetU1_D8 Pin=U1-D8
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=VIN Pin=U1-VIN
