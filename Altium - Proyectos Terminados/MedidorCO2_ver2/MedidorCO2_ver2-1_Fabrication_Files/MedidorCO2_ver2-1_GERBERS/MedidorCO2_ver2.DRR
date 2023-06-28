@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MedidorCO2_ver2.PcbDoc   21/10/2021  10:20:41
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MedidorCO2_ver2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.406mm)                                           Round             16        PTH        4.34inch (110.34mm)
+T2      28mil (0.711mm)                                           Round             38        PTH        16.80inch (426.77mm)
+T3      35mil (0.889mm)                                           Round             30        PTH        5.30inch (134.62mm)
+T4      35mil (0.9mm)                                             Round             22        PTH        5.36inch (136.27mm)
+T5      47mil (1.2mm)                                             Round             4         PTH        0.62inch (15.75mm)
+T6      49mil (1.25mm)                                            Round             2         PTH        0.78inch (19.90mm)
+T7      157mil (4mm)                                              Round             4         PTH        6.26inch (159.00mm)
+T8      115mil (2.921mm)                                          Round             4         NPTH       3.36inch (85.34mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              120
+
+Total Processing Time (hh:mm:ss) : 00:00:00

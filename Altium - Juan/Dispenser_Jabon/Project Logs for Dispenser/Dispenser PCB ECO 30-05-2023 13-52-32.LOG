@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=BUZZER Pin=U1-D0
+Added Pin To Net: NetName=BUZZER Pin=W4-1
+Added Net: Name=BUZZER
+Added Room: Name=Dispenser
